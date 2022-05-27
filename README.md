@@ -4,7 +4,7 @@
 **laila910/laila910** is a ✨ _special_ ✨ repository because its My Personal Repository.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laila910&label=Profile%20views&color=0e75b6&style=flat" alt="laila910-Count" /> </p>
 
-   - 🔭 Currently, I'm Learning Backend Developement.
+   - 🔭 Currently, I'm Learning Cloud Software Engineering.
    - 💬 Hobbies:
    - Linux.
    - CTF Challeges.
