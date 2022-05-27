@@ -44,7 +44,7 @@
 ### Github Stats
 <a>
   
-  ![](https://github.com/laila910/laila910/tree/master/generated/overview.svg)
-  ![](https://github.com/laila910/laila910/tree/master/generated/languages.svg)
+  ![](https://github.com/laila910/laila910/blob/master/generated/overview.svg)
+  ![](https://github.com/laila910/laila910/blob/master/generated/languages.svg)
  
 </a>
