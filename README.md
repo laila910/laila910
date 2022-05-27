@@ -40,7 +40,7 @@
       Knowledge of Data Structures, Distributed Systems, OS, and Algorithms.
       Experience with Databases.
       Proficiency in web apps Development Languages Such as
-      JavaScript, Python, Java, Html, and CSS.
+      JavaScript,Python,Java, Html, and CSS.
 ### Github Stats
 <a>
   
