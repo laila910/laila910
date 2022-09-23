@@ -41,10 +41,10 @@
       Experience with Databases.
       Proficiency in web apps Development Languages Such as
       JavaScript,Python,Java, Html, and CSS.
-### Github Stats
+<!-- ### Github Stats
 <a>
   
   ![](https://github.com/laila910/laila910/blob/master/generated/overview.svg)
   ![](https://github.com/laila910/laila910/blob/master/generated/languages.svg)
  
-</a>
+</a> -->
